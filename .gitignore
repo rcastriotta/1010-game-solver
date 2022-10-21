@@ -1,0 +1,10 @@
+.vscode/
+
+# CMake
+src/app/config.hpp
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+1010_AI
+1010_AI_2
